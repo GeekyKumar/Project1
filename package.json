@@ -1,0 +1,25 @@
+{
+  "name": "nandini_test",
+  "version": "1.0.0",
+  "description": "\"Testing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bnandini69/React.git"
+  },
+  "keywords": [],
+  "author": "Nandini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bnandini69/React/issues"
+  },
+  "homepage": "https://github.com/Bnandini69/React#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
